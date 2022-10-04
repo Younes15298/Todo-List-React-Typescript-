@@ -1,0 +1,27 @@
+.App{
+  width : 100% ;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("https://img.freepik.com/free-photo/vintage-grunge-blue-concrete-texture-studio-wall-background-with-vignette_1258-28374.jpg?w=1380&t=st=1664910508~exp=1664911108~hmac=656008475273101669247145cf9c6a12380ad2417dae9c2db5149454ed456e1c");
+}
+
+
+.heading{
+  text-transform: uppercase;
+  font-size: 40px;
+  margin: 30px 0 ;
+  color: white;
+  z-index: 1;
+  text-align: center;
+}
+
+
+
+@media (max-width: 800px){
+  .heading {
+    margin: 15px 0;
+    font-size: 35px;
+  }
+}
