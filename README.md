@@ -1,2 +1,2 @@
-<s>TODO_LIST (REACT TYPRESCRIPT)</s>
+<strong>TODO_LIST (REACT TYPRESCRIPT)</strong>
 
