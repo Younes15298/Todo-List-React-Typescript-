@@ -1,2 +1,2 @@
-<h1><strong>TODO_LIST (REACT TYPRESCRIPT)</strong></h1>
+<h1><strong>TODO_LIST (REACT TYPESCRIPT)</strong></h1>
 
